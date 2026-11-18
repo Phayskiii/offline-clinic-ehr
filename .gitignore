@@ -1,0 +1,12 @@
+Clinic_Data/
+Clinic_Data_OLD_BACKUP/
+build/
+dist/
+*.zip
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+.venv-win/
